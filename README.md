@@ -1,7 +1,7 @@
 # bittorrent-dht [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[travis-image]: https://img.shields.io/travis/webtorrent/bittorrent-dht/master.svg
-[travis-url]: https://travis-ci.org/webtorrent/bittorrent-dht
+[travis-image]: https://img.shields.io/travis/I-Cat/webtorrent/bittorrent-dht/master.svg
+[travis-url]: https://travis-ci.org/I-Cat/webtorrent/bittorrent-dht
 [npm-image]: https://img.shields.io/npm/v/bittorrent-dht.svg
 [npm-url]: https://npmjs.org/package/bittorrent-dht
 [downloads-image]: https://img.shields.io/npm/dm/bittorrent-dht.svg
